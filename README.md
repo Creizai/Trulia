@@ -6,11 +6,11 @@ Front End Web Development Practice
 
 Create a front end using html, css, grid and flexbox to mimic the look of the Trulia website.
 
-### Original Reference
+## Original Reference
 
 https://codepen.io/GAmarketing/live/dyPoKMb
 
-### Technology Used
+## Technology Used
 
 HTML
 CSS
